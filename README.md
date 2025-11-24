@@ -18,15 +18,11 @@ This is a simple Python-based console program that allows users to record and re
 
 ## Steps to Install & Run the Project
 
-1. git clone
-
-## Instructions for Testing
-
-1. Run the program.
-2. Enter:
+1. git clone  https://github.com/Astha94155/EXPENSE-TRACKER
 
    * **1** to add a new expense.
    * **2** to view the list of all added expenses.
    * **3** to exit the program.
 3. Test by adding different items and amounts.
+
 4. Verify that all added items display correctly when selecting option **2**.
